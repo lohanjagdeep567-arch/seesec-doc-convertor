@@ -1,0 +1,6 @@
+node_modules/
+uploads/*.docx
+uploads/*.xlsx
+uploads/upload_*
+*.log
+cloudflared.exe
